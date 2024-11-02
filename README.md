@@ -21,6 +21,6 @@ The Python Voice Recorder is a simple, efficient application that records audio 
 
 ### 📸 Screenshots
 
-- ![Recording in Progress](https://github.com/5225prachi/VOICE-RECORDER-/blob/main/recording.png)
-- 
-- ![Saved Files](https://github.com/5225prachi/VOICE-RECORDER-/blob/main/saved.png)
+![Recording in Progress](https://github.com/5225prachi/VOICE-RECORDER-/blob/main/recording.png)
+ 
+![Saved Files](https://github.com/5225prachi/VOICE-RECORDER-/blob/main/saved.png)
